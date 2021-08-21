@@ -1,0 +1,18 @@
+body
+{
+  margin: 0;
+}
+
+h1,
+h2,
+p
+{
+  width: 80vw;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+p
+{
+  font-family: sans-serif;
+}
